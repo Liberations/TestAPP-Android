@@ -27,7 +27,7 @@ import android.view.MenuItem;
 import android.view.MotionEvent;
 import android.view.View;
 import android.view.View.OnClickListener;
-import android.view.ViewGroup;
+import android.view.ViewGroupst
 import android.view.animation.AnimationUtils;
 import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemClickListener;
@@ -42,7 +42,7 @@ import android.widget.SeekBar.OnSeekBarChangeListener;
 import android.widget.TextView;
 import android.widget.Toast;
 import android.widget.ViewFlipper;
-
+//this is a test
 public class MainActivity extends Activity implements OnGestureListener {
 
 	/* 实例化Random对象.用于产生随即数,实现播放界面图片的随即显示,用于随即音乐播放 */
